@@ -12,5 +12,6 @@
 - [x] :desert_island: :beach_umbrella: :face_with_head_bandage:
 
 ## Tabele 
-|Name|Vorname |
-|Paulina |Hryszko|
+|Name|Vorname | Git level|
+|----|----|----|
+|Paulina |Hryszko| beginner :monocle_face:|
