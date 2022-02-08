@@ -1,5 +1,16 @@
 # Markdown mit Github Geschmack
 
-## Aufgabe 1
-## Augabe 2
-## Aufgabe 3
+##  Externen Link
+- [x] Github Dokumentation (https://docs.github.com/de)
+
+## Interner Link
+
+## Bilder
+- [x] ![Lost in the city](pexels-ahmed-10768569.jpg "City")
+
+## Emojis 
+- [x] :desert_island: :beach_umbrella: :face_with_head_bandage:
+
+## Tabele 
+|Name|Vorname |
+|Paulina |Hryszko|
