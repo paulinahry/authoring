@@ -1,9 +1,9 @@
 # Markdown mit Github Geschmack
 
 ## Aufgaben:
-1. [X] [**Externer-Link**](#externer-link]
+1. [X] [**Externer-Link**](#externer-link)
 2. [X] [**Emojis**](#emojis)
-3. [X] [**Tabele**]
+3. [X] [**Tabelle**](#tabelle)
 4. [**Bilder**](#bilder)
 
 
@@ -15,7 +15,7 @@
 - [x] :desert_island: :beach_umbrella: :face_with_head_bandage:
 
 
-## **Tabele** 
+## **Tabelle** 
 |Name|Vorname | Git level|
 |----|----|----|
 |Paulina |Hryszko| beginner :monocle_face:|
